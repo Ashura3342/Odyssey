@@ -7,4 +7,5 @@
     <string name="main_accept">Accept</string>
     <string name="main_congratulation">Congratulation</string>
     <string name="main_error">Please fill your firstname and lastname!</string>
+    <string name="main_ok">Congratulation</string>
 </resources>
