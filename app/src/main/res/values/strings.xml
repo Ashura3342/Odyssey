@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Quete UI</string>
+    <string name="main_message_welcome">Welcome to the Wild Code School</string>
+    <string name="main_are_you_wilder">Yes, I want to be a Wilder!</string>
+    <string name="main_firstName">FirstName</string>
+    <string name="main_lastName">LastName</string>
+    <string name="main_accept">Accept</string>
+    <string name="main_congratulation">Congratulation</string>
+    <string name="main_error">Please fill your firstname and lastname!</string>
+</resources>
